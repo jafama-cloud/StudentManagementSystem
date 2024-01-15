@@ -11,4 +11,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## How To Run The Student Management System
 
-Install the JavaGUI+Database.rar and run the JavaGUI.java
+Install the JavaGUI+Database.rar and run the JavaGUI.java. Make sure you create the database table.
